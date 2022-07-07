@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69567268823",
+    "project_id": "demoapplication-anna",
+    "storage_bucket": "demoapplication-anna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69567268823:android:23c99fda5ad6637ea42d92",
+        "android_client_info": {
+          "package_name": "com.tang.hmspushdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69567268823-iog2qd591uht381ihvppi4c74m1an972.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNsslLu0Dh2sh-DbX2QMch-0GOOp1aAJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69567268823-iog2qd591uht381ihvppi4c74m1an972.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
