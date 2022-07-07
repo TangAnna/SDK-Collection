@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 FirebaseMessaging.getInstance().getToken()
                         .addOnCompleteListener(task -> {
+
                             if (!task.isSuccessful()) {
                                 Log.e(TAG, "Fetching FCM registration token failed", task.getException());
                                 return;
