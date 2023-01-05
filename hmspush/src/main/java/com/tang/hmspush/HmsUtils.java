@@ -8,8 +8,7 @@ import com.huawei.hms.aaid.init.AutoInitHelper;
  * time: 2022/6/29 5:17 PM.
  *
  * @author TangAnna
- * email: tang_an@murongtech.com
- * copyright: 北京沐融信息科技股份有限公司
+ * email: 18201399976@163.com
  */
 public class HmsUtils {
     /**
